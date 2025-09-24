@@ -9,6 +9,21 @@ Firmware: Klipper - Mainline
 Probe - EddyDuo
 <br>
 <br>
+Custom SV08 Configs Description -
+<br>
+eddy-ng.cfg - working config for eddy-ng with updated homing and QGL.
+<br>
+heatsoak.cfg - variable heatsoak macro
+<br>
+klipperExpander.cfg - expander board config for Chamber Thermistor
+<br>
+led-control.cfg - controls toolhead neopixel LED
+<br>
+sovol-macros.cfg - updated mainline SV08 Macros
+<br>
+sovol-stock-purge.cfg - only the purge line macro from the stock sovol setup instead of using KAMP.
+<br>
+<br>
 Orca Slicer 2.3.1 Settings -
 <br>
 <br>
