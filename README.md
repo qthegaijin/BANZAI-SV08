@@ -26,6 +26,15 @@ sovol-macros.cfg - updated mainline SV08 Macros
 sovol-stock-purge.cfg - only the purge line macro from the stock sovol setup instead of using KAMP.
 <br>
 <br>
+Calibration STLs - 
+<br>
+Calibration Cube + Key Measuerments Guide - Cube with holes and angled features to measure dimensional accuracy
+<br>
+Firebolt Calibration - 2A Feature calibration cube "IYKYK"
+<br>
+Flow Calibration - Filament flow calibration square for 0.4MM Nozzles. Print with filament flow ratio at 1.00 to start then measure the walls of the print with calipers. Use the equation 1.20/(Measured Value)*(Flow Rate) to find the desired rate. Repeat steps with new settings applied and remeasure. If walls are > or < 1.20mm redo the equation and rerun the test until you are in the 1.19-1.21mm wall range. 
+<br>
+<br>
 Orca Slicer 2.3.1 Settings -
 <br>
 <br>
