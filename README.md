@@ -1,12 +1,17 @@
 # BANZAI-SV08
 Modifications, Configs and Orca Slicer Profiles for the Sovol SV08 3D Printer
-
+<br>
+<br>
 Model: Sovol SV08
+<br>
 Firmware: Klipper - Mainline
+<br>
 Probe - EddyDuo
-
+<br>
+<br>
 Orca Slicer 2.3.1 Settings -
-
+<br>
+<br>
 Printer Settings
 <br>
 <img width="943" height="1128" alt="SV08-I" src="https://github.com/user-attachments/assets/42a4da72-6131-4da2-a8c0-0b13b4f9f6da" />
