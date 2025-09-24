@@ -35,6 +35,8 @@ klipperExpander.cfg - expander board config for Chamber Thermistor
 <br>
 led-control.cfg - controls toolhead neopixel LED
 <br>
+printer.crg - main printer config - use as a reference
+<br>
 sovol-macros.cfg - updated mainline SV08 Macros
 <br>
 sovol-stock-purge.cfg - only the purge line macro from the stock sovol setup instead of using KAMP.
