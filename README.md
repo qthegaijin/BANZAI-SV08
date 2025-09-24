@@ -50,4 +50,14 @@ Other -
 <img width="475" height="759" alt="O1" src="https://github.com/user-attachments/assets/bfdd31cf-50bc-4764-82ee-e6bb945d9315" />
 <br>
 <img width="485" height="656" alt="O2" src="https://github.com/user-attachments/assets/99709d91-7c12-453b-9d34-a68cb06593ca" />
+<br>
+<br>
+Generic PLA Start Point - Tune Temperature, Flow, Adaptive Pressure Advance for specific filament being used
+<br>
+<img width="1027" height="1294" alt="PLA1" src="https://github.com/user-attachments/assets/1c8ff3b6-63a1-4882-a395-d89115a22545" />
+<br>
+<img width="1030" height="1294" alt="PLA2" src="https://github.com/user-attachments/assets/d5e9acbd-827b-408d-8f32-507fc281a94c" />
+<br>
+<img width="1031" height="1292" alt="PLA3" src="https://github.com/user-attachments/assets/3fea30de-bb4a-4e7f-8db0-c592bfd0f84f" />
+<br>
 
