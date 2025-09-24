@@ -35,7 +35,7 @@ klipperExpander.cfg - expander board config for Chamber Thermistor
 <br>
 led-control.cfg - controls toolhead neopixel LED
 <br>
-printer.crg - main printer config - use as a reference
+printer.cfg - main printer config - use as a reference
 <br>
 sovol-macros.cfg - updated mainline SV08 Macros
 <br>
