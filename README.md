@@ -46,6 +46,10 @@ BANZAI MCU Fan Adapter - Replaces the stock metal sheet cover with a small footp
 <br>
 BANZAI Bed Plate Mod - Replaces the stock plastic bed plate for use with the SV08 Taco Bed Mod without needing to glue any washers: https://github.com/Wrath669/SV08BedTension/blob/main/README.md. Requires 9 M4x8mm Heatset Inserts.
 <br>
+<img width="1427" height="964" alt="Screen Shot 2025-09-20 at 9 58 08 AM" src="https://github.com/user-attachments/assets/8152761d-db5a-4573-8b67-f2bd35ddbdeb" />
+<br>
+<img width="1875" height="901" alt="Screen Shot 2025-09-20 at 9 50 53 AM" src="https://github.com/user-attachments/assets/4f1c07da-08e7-4a01-8428-49ba757e1d15" />
+<br>
 <br>
 Calibration STLs - 
 <br>
