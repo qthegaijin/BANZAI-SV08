@@ -10,6 +10,20 @@ Probe - EddyDuo running eddy-ng - https://github.com/vvuk/eddy-ng/wiki
 <br>
 KlipperExpander - https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander
 <br>
+Toolhead Cover - https://www.printables.com/model/1167115-sv08-fan-shroud-atomic-remix-v2
+<br>
+Tophat - https://www.printables.com/model/1392873-sv08-top-hat-double-top-hat-enclosed-for-mmus
+<br>
+Feet/Risers - https://www.printables.com/model/1041899-sovol-sv08-feet-v4
+<br>
+Door Stop - https://www.printables.com/model/1003732-sv08-door-stop
+<br>
+Spool Holder Relocation - https://www.printables.com/model/928589-sovol-sv08-side-mount-spool-holder-remix
+<br>
+Extruder Gear Pin Fix - https://www.printables.com/model/1020013-sv08-fix
+<br>
+SV08 Gantry Belt Fix - https://www.printables.com/model/1154812-sovol-sv08-side-slide-carriage-make-parallel-to-th
+<br>
 <br>
 Custom SV08 Configs Description -
 <br>
@@ -47,6 +61,7 @@ Printer Settings
 <img width="898" height="1016" alt="SV08-E" src="https://github.com/user-attachments/assets/be4e5796-d588-485f-83f3-b8dd01714249" />
 <br>
 <img width="948" height="1137" alt="SV08-MO" src="https://github.com/user-attachments/assets/6ef49d37-6ec5-43d5-b254-83f7b2b457fd" />
+<br>
 <br>
 Process Settings
 <br>
