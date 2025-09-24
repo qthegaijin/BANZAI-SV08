@@ -40,6 +40,13 @@ sovol-macros.cfg - updated mainline SV08 Macros
 sovol-stock-purge.cfg - only the purge line macro from the stock sovol setup instead of using KAMP.
 <br>
 <br>
+Custom BANZAI Mods - 
+<br>
+BANZAI MCU Fan Adapter - Replaces the stock metal sheet cover with a small footprint fan holder. Requres 2 or 4x M3x5mm Heatset Inserts.
+<br>
+BANZAI Bed Plate Mod - Replaces the stock plastic bed plate for use with the SV08 Taco Bed Mod. Requires 9 M4x8mm Heatset Inserts.
+<br>
+<br>
 Calibration STLs - 
 <br>
 Calibration Cube + Key Measuerments Guide - Cube with holes and angled features to measure dimensional accuracy
