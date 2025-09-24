@@ -2,11 +2,13 @@
 Modifications, Configs and Orca Slicer Profiles for the Sovol SV08 3D Printer
 <br>
 <br>
-Model: Sovol SV08
+Model: Sovol SV08 - https://www.sovol3d.com/products/sovol-sv08-3d-printer
 <br>
-Firmware: Klipper - Mainline
+Firmware: Klipper - Mainline - https://github.com/Rappetor/Sovol-SV08-Mainline
 <br>
-Probe - EddyDuo
+Probe - EddyDuo running eddy-ng - https://github.com/vvuk/eddy-ng/wiki
+<br>
+KlipperExpander - https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander
 <br>
 <br>
 Custom SV08 Configs Description -
