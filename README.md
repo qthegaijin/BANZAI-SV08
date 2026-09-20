@@ -58,6 +58,8 @@ BANZAI Bed Plate Mod - Replaces the stock plastic bed plate for use with the SV0
 <br>
 Calibration STLs - 
 <br>
+Suggested Tuning Tutorial Video: https://www.youtube.com/watch?v=trXzdfWCHI8
+<br>
 Calibration Cube + Key Measuerments Guide - Cube with holes and angled features to measure dimensional accuracy
 <br>
 Firebolt Calibration - 2A Feature calibration cube "IYKYK"
