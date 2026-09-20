@@ -41,6 +41,7 @@ sovol-stock-purge.cfg - only the purge line macro from the stock sovol setup ins
 <br>
 Orbiter2_SmartSensor.cfg - Orbiter Smart Filament Sensor setup for the SV08 on pins PE9 and PE12
 <br>
+<br>
 Custom BANZAI Mods - 
 <br>
 BANZAI MCU Fan Adapter - Replaces the stock metal sheet cover with a small footprint fan holder. Requres 2 or 4x M3x5mm Heatset Inserts.
